@@ -1,4 +1,4 @@
-**Sorteador de Números com JavaScript**
+# **Sorteador de Números com JavaScript**
 
 > Curso de lógica de programação: praticando com desafios, módulo 1: Projeto Sorteador de números. Foi ensinado como fazer um sorteador de números utilizando html, css e javascript. Da qual você coloca quantos números você quer que sorteie, qual o número mínimo e o máximo.
 
