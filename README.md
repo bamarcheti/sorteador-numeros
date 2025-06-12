@@ -2,7 +2,7 @@
 
 > Curso de lógica de programação: praticando com desafios, módulo 1: Projeto Sorteador de números. Foi ensinado como fazer um sorteador de números utilizando html, css e javascript. Da qual você coloca quantos números você quer que sorteie, qual o número mínimo e o máximo.
 
-[🔗 Clique aqui para acessar](https://numero-secreto-bamarchetis-projects.vercel.app/)
+[🔗 Clique aqui para acessar](https://sorteador-numeros-bamarchetis-projects.vercel.app/)
 
 ## **🛠 Tecnologias**
 
